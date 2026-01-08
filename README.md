@@ -1,4 +1,4 @@
-# Samatrix Internship Projects 💼📊
+# Samatrix Internship Projects 
 
 This repository contains all the work I completed during my **internship at Samatrix**, where I worked on a range of real-world data analysis and machine learning projects.
 
